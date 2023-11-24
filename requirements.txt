@@ -1,0 +1,8 @@
+opencv-python==3.4.6.27
+--extra-index-url https://artifacts.luxonis.com/artifactory/luxonis-python-snapshot-local/
+AWSIoTPythonSDK==1.4.9
+adafruit-ads1x15
+pynmea2==1.18.0
+depthai==2.2.1.0
+sense-hat==2.2.0
+pyserial==3.5
